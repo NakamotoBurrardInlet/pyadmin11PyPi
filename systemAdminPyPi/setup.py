@@ -7,7 +7,7 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author='Professional SysAdmin',
-    url='https://github.com/yourusername/sysadmin-toolkit', # Replace with your repo
+    url='https://github.com/NakamotoBurrardInlet/pyadmin11PyPi.git', # Replace with your repo
     packages=find_packages(),
     install_requires=[
         'psutil', # Used for cross-platform system metrics
